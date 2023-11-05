@@ -1,0 +1,262 @@
+YouTube est aujourd'hui le deuxième moteur de recherche après Google (Forrester). La plateforme permet aux marques et aux entreprises d'actionner des leviers intéressants en termes de notoriété, mais aussi de référencement.
+
+Et pour cause : la vidéo constitue un format très consommé, qui peut parfaitement s'intégrer dans une stratégie de contenus pertinente.
+
+
+Cependant, produire des vidéos de bonne qualité et les mettre en ligne sur YouTube ne suffit pas. Pour être bien référencé sur YouTube, il faut respecter des règles de référencement similaires à celles en vigueur pour les contenus textuels, comme les articles de blog, par exemple. Voici comment optimiser le référencement naturel des vidéos YouTube.
+
+SEO YouTube : comment réussir ?
+Sélectionner des mots-clés pertinents.
+Soigner le titre de la vidéo.
+Créer une bonne miniature.
+Optimiser la rédaction de la description.
+Ajouter des tags.
+Intégrer des call-to-action.
+Gérer les abonnements, likes et commentaires.
+Rédiger des sous-titres.
+Adapter la durée de la vidéo aux attentes de l'utilisateur.
+
+
+
+Sélectionner des mots-clés pertinents par rapport au contenu de ses vidéos
+Les vidéos mises en ligne sur YouTube répondent aux règles de référencement de Google et bénéficient donc d'un bon positionnement dans les listes de résultats du moteur de recherche.
+
+Comme les autres types de contenu sur Internet, les vidéos YouTube se positionnent sur des mots-clés ou des requêtes saisis par les utilisateurs. Plus une requête génère un nombre important de recherches, plus elle est considérée comme concurrentielle.
+
+Ainsi, que ce soit pour les vidéos mises en ligne sur YouTube ou les articles publiés régulièrement sur un blog, il faut prendre en compte l'importance des mots-clés. En effet, ils traduisent directement l'intention de recherche des utilisateurs et, plus précisément, leurs besoins vis-à-vis du contenu proposé.
+
+Mais cela ne suffit pas : la concurrence est un autre critère à ne pas négliger. C'est la raison pour laquelle il sera toujours plus pertinent de proposer une vidéo en lien avec une requête qui n'affiche pas encore de vidéo dans les résultats de recherche de Google que de tenter de se faire une place sur une requête très concurrentielle.
+
+Avant de produire une vidéo, il faudra déterminer les mots-clés sur lesquels elle pourra se positionner. Concrètement, la vidéo devra formuler une réponse à ces mots-clés ou requêtes, tous liés à un mot-clé principal, qui résumera le contenu de manière globale.
+
+Où trouver les mots-clés appropriés ? Il existe bien sûr une multitude d'outils SEO qui permettent d'établir des listes de mots-clés. Mais le plus pertinent pour débuter, et le plus accessible, reste la barre de recherche de YouTube. En effet, elle connaît parfaitement les requêtes des utilisateurs puisqu'elle est directement reliée à l'algorithme de Google.
+
+Soigner le titre de la vidéo
+Les critères SEO se basent sur les exigences de Google qui, elles, évoluent en fonction des attentes des utilisateurs. L'importance du titre d'une vidéo peut être comparée à celle des balises Hn pour les contenus web rédactionnels. Lorsque le titre d'une nouvelle vidéo YouTube est renseigné, il vient directement remplir la balise <title>.
+
+Bien entendu, le titre doit comprendre, si possible, le mot-clé principal. C'est le meilleur moyen de capter une audience qualifiée, qui aura envie de cliquer sur une vidéo qui paraît véritablement répondre à ses questions.
+
+Le titre de la vidéo doit évidemment donner envie aux utilisateurs de cliquer, mais ne doit en aucun cas formuler une promesse démesurée par rapport à son contenu réel. En abusant de ses pratiques, le risque est de perdre en score SEO, et donc de souffrir d'un mauvais référencement naturel, mais aussi de perdre la confiance des prospects. En bref, un titre de vidéo accrocheur et éloquent, relativement neutre, aura plus de chances de répondre aux critères du SEO.
+
+Créer une bonne miniature
+La miniature, également appelée thumbnail, est l'image qui s'affiche à gauche du texte dans les SERP (listes de résultats des moteurs de recherche, Google comme YouTube). Travailler l'aspect esthétique de la miniature permet d'augmenter considérablement le taux de clic sur une vidéo. De même, Google étant capable d'analyser la qualité de la miniature. Il privilégie les images attractives et lisibles pour l'utilisateur.
+
+Exemple : 
+
+Exemple de miniature YoutubeYouTube demande de choisir la miniature dans les étapes qui suivent l'importation de la vidéo. Par défaut, l'outil sélectionne une image provenant de la vidéo. Mais il est fortement conseillé de travailler sur la miniature sur un logiciel graphique à part, d'autant plus lorsqu'il s'agit de contenus professionnels.
+
+Optimiser la rédaction de la description
+La zone de description située sous chaque vidéo YouTube est encore souvent négligée par les créateurs, et ce, pour deux raisons. La première est que les utilisateurs la consultent assez peu et la seconde, que tous les créateurs ne connaissent pas l'intérêt de cet espace de texte pour le référencement naturel de leurs contenus.
+
+La description d'une vidéo a un objectif simple : elle permet d'expliquer à Google ce que contient la vidéo. Elle doit donc être d'une longueur suffisante afin de pouvoir entrer dans le détail et d'intégrer les mots-clés préparés en amont pour la vidéo que l'on souhaite voir référencée. Il faut donc privilégier un texte de 150 à 300 mots, avec des phrases courtes, mais descriptives.
+
+La description est aussi le lieu idéal pour intégrer des liens vers les autres réseaux sociaux ou le site web de l'entreprise. Cela permet d'engager une audience qualifiée : seuls les utilisateurs les plus intéressés iront chercher cette information.
+
+Ajouter des tags
+En tant que réseau social, YouTube accorde une grande importance aux tags, ce qui n'est plus le cas de Google pour les contenus textuels, où la balise meta « keywords » jouait ce rôle il y a encore quelques années.
+
+Cela ne signifie pas pour autant qu'il faille abuser des tags. Il est conseillé d'en ajouter 5 environ. Les tags viennent appuyer la stratégie de mots-clés. Ils doivent donc comprendre le mot-clé principal et les mots-clés secondaires.
+
+Intégrer des call-to-action
+YouTube donne la possibilité aux créateurs d'intégrer des annotations cliquables qui s'affichent directement sur la vidéo. Dans le cadre d'une vidéo professionnelle qui repose sur une stratégie de content marketing, il peut être très intéressant d'utiliser ces annotations comme call-to-action.
+
+Ainsi, il est possible de renvoyer ses prospects vers un ebook téléchargeable, une page de destination ou encore une autre vidéo. Attention cependant à ne pas abuser de cette fonctionnalité pour ne pas gêner le visionnage.
+
+Gérer les abonnements, likes et commentaires
+Les abonnements, likes et commentaires sont constitutifs de l'expérience utilisateur. Or, le SEO, aussi technique qu'il soit, s'appuie sur le comportement des utilisateurs. Il accorde donc beaucoup d'importance à des critères comme le nombre d'abonnés et le nombre de likes. Le niveau de réactivité de l'audience vis-à-vis d'une vidéo a une importance considérable pour son positionnement. C'est la raison pour laquelle de nombreux créateurs de contenus demandent à leur communauté de s'abonner ou de laisser un commentaire dans la zone dédiée.
+
+Rédiger des sous-titres
+Au moment de rédiger un article de blog, le titre 1 ne suffit probablement pas. Il en est de même pour le format vidéo, à la différence que les sous-titres ne sont pas visibles dans le corps du contenu. Néanmoins, si les utilisateurs ne peuvent pas les voir, les algorithmes y accordent en revanche une grande importance en termes de référencement. Il est donc important de leur donner accès à des sous-titres dont la rédaction est optimisée pour le SEO.
+
+Pour ajouter des sous-titres à une vidéo YouTube, il faut se rendre dans la rubrique « Gestionnaire de vidéos », puis cliquer sur « Sous-titres ». L'interface de YouTube propose alors de retranscrire le contenu vidéo pour en extraire des sous-titres. Cependant, cette fonctionnalité est parfois imprécise. Il est alors conseillé de garder la main sur la rédaction des sous-titres. Pour cela, il suffit de télécharger un fichier, de préférence au format .CSV, contenant les sous-titres. Il peut s'agir d'un script de vidéo, dans lequel les mots-clés auront été intégrés de manière stratégique.
+
+Adapter la durée de la vidéo aux attentes de l'utilisateur
+La durée de la vidéo est aussi un critère SEO primordial. En se basant sur les attentes des utilisateurs et sur l'évolution des tendances comportementales sur Internet, le SEO privilégie les contenus longs, puisqu'ils sont généralement plus riches et informatifs. Google et YouTube considèrent que plus une vidéo est longue, plus elle a de chances de répondre aux attentes de l'utilisateur.
+
+De plus, YouTube prend aussi en compte un critère appelé « taux de rétention », qui correspond au temps de vidéo visionné par l'utilisateur par rapport à la durée totale de la vidéo. Pour qu'une vidéo soit considérée comme pertinente, le taux de rétention doit être supérieur à 40 %.
+
+Le taux de rétention est un critère complémentaire à la durée absolue de la vidéo. Par exemple, YouTube privilégie un taux de rétention de 30 % d'une vidéo de 15 minutes à un taux à 60 % pour un contenu qui ne dure que 3 minutes.
+
+Mettre en avant la valeur ajoutée de la vidéo
+Google et YouTube sont en mesure de déterminer si un contenu aborde un sujet déjà traité d'une manière différente et, plus globalement, de le comparer aux requêtes formulées par les utilisateurs.
+
+Proposer une vidéo à haute valeur ajoutée est donc un très bon moyen de se positionner de manière stratégique vis-à-vis de la concurrence, de capter une audience qualifiée et d'améliorer son référencement naturel.
+
+Partager la vidéo
+Au-delà du référencement sur Google et YouTube, partager une vidéo sur d'autres réseaux sociaux est un excellent moyen de booster ses performances. Ce partage s'inscrit dans une stratégie de référencement naturel efficace et vient consolider les actions SEO déjà mises en place.
+
+Plus important encore, le partage sur les réseaux sociaux permet d'obtenir des backlinks. Il s'agit de liens disséminés sur plusieurs sources qui renvoient vers la vidéo via un lien hypertexte. Ils participent à l'amélioration de la position d'une marque ou d'une entreprise.
+
+Parmi les techniques existantes pour enrichir les backlinks, il est, par exemple, conseillé de créer un article de blog sur la même thématique que la vidéo, dans lequel on évoque son contenu sans entrer dans les détails, et de le partager sur les réseaux sociaux. Quoi qu'il arrive, si une vidéo présente une forte valeur ajoutée, il ne sera pas difficile de convaincre son audience de la partager à grande échelle.
+
+------------------------
+
+
+Étape 1 : Effectuer une recherche de mots-clés sur YouTube
+Travailler plus intelligemment, pas plus difficilement est l’approche que vous devriez adopter quand il s’agit de marketing.
+
+1. Rechercher des mots-clés similaires
+Comme avec beaucoup d’autres choses dans le référencement, l’optimisation vidéo commence par une recherche approfondie de mots-clés. À cette étape, vous devez trouver les mots-clés les plus pertinents pour votre niche et les mots-clés que les utilisateurs ont tendance à utiliser lorsqu’ils recherchent un produit ou un service semblable au vôtre.
+
+L’un des outils les plus fiables pour cette activité est Google Keyword Planner. L’outil vous fournit des tonnes de variations de mots-clés ainsi que leurs taux de compétitivité en fonction des termes que vous saisissez.
+
+
+2. Analyser les tendances de recherche
+Une autre façon d’enrichir votre liste de mots-clés avec des phrases cibles puissantes et d’avoir une idée des tendances de recherche dans votre secteur d’activité est d’utiliser la fonction de saisie semi-automatique de YouTube. Cette méthode est exceptionnellement utile car elle vous permet de recueillir les mots-clés que les gens saisissent réellement sur YouTube.
+
+Vous pouvez également vous rendre sur les vidéos les plus populaires qui sont similaires à la vôtre et copier les mots-clés pour lesquels ils sont optimisés. De plus, à l’aide de la fonction de saisie semi-automatique de YouTube, vous pouvez recueillir une foule d’idées pour de futures vidéos.
+
+Saisie semi-automatique YouTube
+Saisie semi-automatique YouTube
+Google Trends est aussi un outil génial pour analyser les tendances de recherche et comparer les mots-clés en fonction de leur popularité. Pour que l’outil vous fournisse des données spécifiques à YouTube, il vous suffit de passer de l’option de recherche Web à YouTube Search.
+
+En plus de vous donner une idée des tendances actuelles dans votre niche, l’outil vous montre comment le nombre mensuel de recherches change au fil du temps et estime la popularité des mots-clés dans une certaine région géographique. Google Trends est également très utile lorsque vous avez une liste de mots-clés et que vous voulez les comparer les uns avec les autres en termes de popularité.
+
+YouTube Google Trends
+YouTube Google Trends
+3. Collecte de mots-clés vidéo
+Je suis sûr que vous remarquez assez souvent des vidéos YouTube apparaissant parmi les pages de résultats de Google pour des mots-clés particuliers. En fait, environ 20 à 40% du trafic YouTube sera généré par la recherche organique. C’est pourquoi la collecte et l’optimisation des vidéos pour ces mots-clés peuvent augmenter considérablement leurs chances de lutter pour une place dans les résultats de recherche organique de Google.
+
+Mots-clés vidéo dans la recherche Google
+Mots-clés vidéo dans la recherche Google
+La meilleure façon de recueillir de tels termes est de saisir vos mots-clés cibles dans Rank Tracker et de voir si les pages de résultats contiennent des vidéos – c’est ainsi que vous pouvez repérer les mots-clés qui sont le plus susceptibles d’amener une vidéo dans les résultats de recherche organique.
+
+Classement des mots-clés YouTube
+Classement des mots-clés YouTube
+Étape 2 : Optimiser les métadonnées vidéo
+Que cela vous plaise ou non, comme Google et YouTube ont implémenté l’apprentissage automatique pour la reconnaissance d’objets, YouTube peut maintenant identifier les objets dans votre vidéo tout en estimant sa pertinence pour une requête de recherche particulière. Fondamentalement, les métadonnées vidéo ont perdu un peu de leur puissance, ce qui ne veut pas dire qu’elles ne doivent pas être optimisées.
+
+En fait, c’est de la plus haute importance pour nous parce que c’est exactement ce que les utilisateurs prennent en considération lorsqu’ils décident de cliquer ou non sur votre vidéo. De plus, il est conseillé de mettre en ligne une vidéo avec ses métadonnées déjà optimisées plutôt que 48 heures après sa mise en ligne car sinon, l’algorithme la jugera indigne.
+
+Voici donc comment optimiser les métadonnées de vos vidéos pour satisfaire à la fois les internautes et YouTube.
+
+1. Créer un titre riche en mots-clés
+Je suppose qu’il n’est pas surprenant que le titre d’une vidéo soit la toute première et parfois la seule chose que les chercheurs regardent lorsqu’ils estiment la pertinence de la vidéo. Pour cela, un titre parfait doit inclure les mots-clés pour lesquels vous voulez classer votre vidéo et résumer le sujet de votre vidéo. Essayez d’attirer l’attention, mais ne faites pas de fausses promesses et ne faites pas de surenchère (ne faites pas intentionnellement un piège à clics). C’est aussi une bonne idée de regarder les titres vidéo de vos concurrents pour vous en inspirer.
+
+En règle générale, les vidéos dont le titre contient des mots-clés correspondant exactement aux mots-clés sont beaucoup plus performantes en termes de classement. L’explication est assez simple – les utilisateurs voient exactement ce qu’ils ont tapé dans la barre de recherche, donc ces vidéos semblent plus pertinentes.
+
+De plus, vos titres ne devraient pas dépasser la limite de 60 caractères, sinon ils seront simplement coupés.
+
+2. Optimiser la description
+Bien que les descriptions vidéo puissent contenir jusqu’à 1 000 caractères, les 100 premiers caractères (2-3 lignes de texte) sont les plus importants car c’est la quantité de texte que l’utilisateur voit avant de cliquer sur « Afficher la suite ». C’est pourquoi il est important de placer vos mots-clés cibles, vos appels à action et vos liens vers vos comptes sociaux le plus près du début.
+
+Une autre option consiste à inclure une transcription dans votre description. Cependant, je ne recommanderais pas de me fier entièrement aux transcriptions automatisées de YouTube. Assurez-vous de les relire correctement ou pensez à utiliser un service de transcription comme TranscribeMe pour faire tout le travail pour vous.
+
+
+4. Ajouter des balises vidéo
+L’optimisation de vos balises vidéo aide les chercheurs à découvrir vos vidéos – elles apparaissent même comme des « mots-clés » dans votre code source. La meilleure façon d’avoir une idée des balises à ajouter à vos vidéos est de voir ce que vos concurrents utilisent – installez simplement TubeBuddy, et l’outil vous montrera les balises exactes avec lesquelles une vidéo est optimisée.
+
+Balises vidéo YouTube
+Balises vidéo YouTube
+Quand vous arrivez à l’optimisation elle-même, il est préférable de commencer par des balises plus longues et plus spécifiques (comme « comment dresser un chiot labrador ») et de les réduire à des phrases plus larges (comme « dressage de chien »). Et n’oubliez pas d’inclure les personnes figurant dans votre vidéo ainsi que votre nom de marque.
+
+5. Ajouter des Hashtags
+L’utilisation des hashtags est un autre moyen d’améliorer la recherche de vos vidéos. Tout ce que vous avez à faire est de les ajouter à vos descriptions vidéo, et ils apparaîtront au-dessus du titre de la vidéo. En raison du fait que les hashtags ont été récemment ajoutés à la plate-forme, certaines de vos anciennes vidéos peuvent ne pas être optimisées avec eux – assurez-vous donc d’y aller et de réparer ça.
+
+Hashtags YouTube
+Hashtags YouTube
+Il est également important que les hashtags que vous ajoutez reflètent le contenu que les utilisateurs s’attendent à voir après avoir saisi ou cliqué sur un hashtag. Il est également important de noter que YouTube limite le nombre de hashtags à 15 pour une seule vidéo, donc ne les utilisez pas trop.
+
+Étape 3 : Améliorer la fidélisation et l’engagement des utilisateurs
+Depuis que le temps de visionnage et la rétention de l’audience sont devenus des signaux clés de classement, YouTube récompense les vidéos qui gardent les gens plus longtemps parce qu’elles répondent mieux à ses critères de qualité du contenu. De plus, certains indicateurs d’engagement comme les commentaires ont également une forte corrélation avec les classements sur YouTube. Voici donc comment vous pouvez augmenter le temps de visionnage, la rétention des utilisateurs et l’engagement de vos vidéos.
+
+1. Optimisez pour le temps de visonnage
+La meilleure chose à faire pour commencer à optimiser le temps de visionnage est d’analyser vos rapports de temps de visionnage, qui peuvent vous donner un aperçu inestimable de la durée moyenne de visionnage, du pourcentage moyen de visionnage et de la rétention d’audience. Ces mesures vous aideront à comprendre à quel point vos spectateurs sont engagés et à identifier les points faibles de votre stratégie.
+
+Si vous voyez que les spectateurs ne dépassent pas votre intro, cela peut signifier qu’elle est trop longue. Si c’est le cas, essayez de couper tout contexte inutile et d’aller droit au but.
+
+Pour augmenter le nombre total de vos sessions de chaînes, pensez à promouvoir vos autres vidéos directement dans une vidéo ou une description. C’est aussi une bonne idée de combiner des vidéos qui couvrent des sujets similaires dans une seule liste de lecture – elles seront lues automatiquement chaque fois que quelqu’un regarde une vidéo de la série.
+
+2. Encouragez l’engagement
+Tout comme le temps de visionnage, les j’aime, les abonnements et les commentaires ont une très forte corrélation avec les classements. La première étape pour encourager les téléspectateurs à interagir avec vos vidéos est d’identifier les domaines à améliorer. Et il n’y a pas de meilleure façon de le faire qu’avec l’aide de YouTube Analytics – cela vous permet de voir quelles vidéos exactes produisent des abonnements et des désabonnements ainsi que les endroits où un contenu vidéo particulier est le plus populaire.
+
+Pour encourager vos spectateurs à commenter, pensez à leur poser une question directe à la fin de votre vidéo. Et bien sûr, assurez-vous d’y répondre pour provoquer d’autres discussions et faire en sorte que votre auditoire se sente entendu.
+
+Une autre stratégie qui gagne en popularité, en particulier parmi les blogueurs, consiste à organiser des concours qui obligent les spectateurs à aimer une vidéo, à s’y abonner et à écrire un commentaire sous une vidéo. Bien sûr, beaucoup d’entre eux se désabonneront dès que le tirage sera terminé, mais un grand nombre de nouveaux abonnés peuvent quand même donner un coup de pouce significatif à votre vidéo.
+
+3. Améliorez votre chaîne
+L’une des meilleures façons d’améliorer votre chaîne et d’ajouter de l’interactivité à vos vidéos est d’implémenter les Cartes. Elles peuvent être de 6 types différents en fonction de ce que vous êtes prêt à promouvoir : chaîne, lien, sondage, vidéo ou playlist, et cartes de don.
+
+Cartes YouTube
+Cartes YouTube
+Les écrans de fin peuvent aussi beaucoup vous aider si vous voulez diriger les spectateurs vers vos autres vidéos et gagner du temps de visionnage supplémentaire. Ajoutez des écrans de fin aux 5 à 20 dernières secondes et faites la promotion d’une vidéo, d’une liste de lecture ou d’une autre chaîne, encouragez les spectateurs à s’abonner et créez un lien vers des sites approuvés.
+
+Écrans d’extrémité YouTube
+Écrans d’extrémité YouTube
+Avec 85% des vidéos Facebook visionnées avec le volume éteint, l’ajout de sous-titres et de légendes est devenu plus une nécessité qu’une simple chose agréable à avoir. De plus, c’est une très bonne occasion de rendre vos vidéos compréhensibles pour les personnes malentendantes ou parlant une autre langue d’envisager la mise en place de sous-titres et de légendes.
+
+Et la dernière chose, mais non la moindre, sur laquelle je veux attirer votre attention est la qualité de vos vidéos. Le fait est que les vidéos en format HD sont beaucoup plus appréciées des téléspectateurs et de YouTube – 68,2% des vidéos de première page sur YouTube sont en HD. Assurez-vous donc de passer au format vidéo HD si ce n’est déjà fait.
+
+Étape 4 : Faites la promotion de vos vidéos
+Bien que la recherche de mots-clés, l’optimisation des métadonnées et l’amélioration de la rétention des utilisateurs soient des activités très importantes, elles ne vous apporteront guère de profit si votre vidéo n’est pas visible. Voici donc comment vous pouvez promouvoir vos vidéos et gagner des visites supplémentaires.
+
+Bien sûr, la première chose qui vient à l’esprit quand on pense à la promotion du contenu, ce sont les réseaux sociaux. Et en effet, c’est un très bon endroit pour commencer votre promotion de vidéo. En 2018, 500 millions de personnes regardaient des vidéos sur Facebook chaque jour. En ce qui concerne Twitter, les tweets vidéos sont retweetés 6 fois plus souvent que les tweets photos.
+
+Cela dit, les réseaux sociaux restent une plate-forme très puissante pour la promotion vidéo. Et si vous voulez savoir quel type de buzz entoure vos vidéos, pensez à utiliser un outil de surveillance des réseaux sociaux comme Awario, Mention, ou Brandwatch. En créant une alerte dans Awario, vous pouvez suivre et analyser votre présence sur les réseaux sociaux et obtenir des informations précieuses sur les stratégies de promotion vidéo de vos concurrents.
+
+Une autre stratégie de promotion vidéo qui a prouvé son efficacité est l’intégration de vidéos dans les billets de blog. C’est ainsi que vous pouvez gagner des liens et lutter pour apparaître dans les résultats de recherche organique. Vidéos + contenu c’est gagnant-gagnant.
+
+Les meilleurs endroits pour promouvoir vos vidéos sont ceux où les gens cherchent activement des réponses. Pensez donc à placer vos vidéos sur des sites de questions-réponses comme Quora. Trouvez simplement une question à laquelle vous pensez que votre vidéo peut répondre et placez-la à la fin de votre réponse. Cependant, je dois également vous avertir que Quora est brillant dans la détection des spammeurs – alors soyez prudent et essayez d’être utile à la communauté Quora en premier lieu.
+
+En plus de cela, pensez à ajouter vos vidéos sur des forums ou des blogs pertinents en réponse à la question de quelqu’un dans les commentaires.
+
+Une autre façon d’attirer l’attention de ceux qui regarderont probablement vos vidéos et qui les apprécieront est de les joindre à votre bulletin d’information. Le fait est que ces personnes sont déjà vos clients payants et sont plus susceptibles de cliquer au moins sur un lien vers votre vidéo. Si vous voulez les informer d’une vente à venir, vous pouvez ajouter une vidéo sur la façon d’utiliser votre produit ou pourquoi il est meilleur que celui de vos concurrents, par exemple.
+
+Étape 5 : Munissez-vous d’outils puissants pour le référencement sur YouTube
+Bien sûr, avec des outils puissants pour le SEO YouTube à vos côtés, beaucoup de tâches qui prennent énormément de temps peuvent être accomplies en un rien de temps. Voici donc une sélection des meilleurs outils de référencement SEO YouTube.
+
+1. YouTube Analytics
+YouTube Analytics : Le meilleur pour l’analyse globale des performances des chaînes YouTube.
+
+YouTube Analytics
+YouTube Analytics
+Bien sûr, il n’est que justice de commencer ce graphique avec YouTube Analytics. L’outil est irremplaçable lorsqu’il s’agit de comprendre votre public et comment il s’engage avec vos vidéos. Il faut également mentionner que YouTube est récemment passé de « Creator Studio » à un « YouTube Studio Beta » plus simple et plus intuitif.
+
+Fondamentalement, l’outil vous montre la performance globale de la chaîne ainsi que des données sur des vidéos spécifiques. YouTube Analytics vous permet également de découvrir les habitudes de visionnage de vos visiteurs, d’analyser leurs données démographiques et de voir d’où vient le trafic.
+
+Il y a aussi de nouvelles mesures comme les impressions, le taux de clics des impressions et les visualiseurs uniques qui sont présents dans la version mise à jour de l’outil. De plus, YouTube Analytics compare vos dernières performances vidéo aux précédentes pour suivre vos progrès.
+
+2. Rank Tracker
+Rank Tracker : Meilleur pour vérifier les classements sur YouTube, la recherche de mots-clés, l’analyse de mots-clés.
+
+Rank Tracker
+Rang Tracker
+Avec Rank Tracker, vous pouvez faire de YouTube votre moteur de recherche préféré et y suivre vos classements, ainsi que surveiller vos résultats vidéo dans les fonctions SERP. L’outil vous permet également de collecter des mots-clés avec 23 méthodes de recherche de mots-clés, y compris la saisie semi-automatique de YouTube, puis de les comparer selon les indicateurs SEO les plus importants.
+
+Comme je l’ai déjà mentionné, l’outil est génial pour découvrir les mots-clés vidéo et le suivi – vous pouvez voir les mots-clés exacts qui font apparaître les vidéos dans les résultats de recherche organique. Assurez-vous de vérifier les métriques de difficulté des mots-clés de YouTube, propriétaire de Rank Tracker, pour repérer et collecter immédiatement les mots-clés faciles à classer.
+
+3. Awario
+Awario : Idéal pour le suivi des mentions sur les médias sociaux.
+
+Awario
+Awario
+Il est connu que les signaux sociaux influencent beaucoup l’algorithme de classement de YouTube. En outre, les mentions sans lien gagneront très probablement plus de puissance dans l’algorithme de classement de YouTube parce qu’elles sont déjà un signal de classement pour Google. Dans cette optique, vous devez suivre et analyser la présence de vos vidéos dans les réseaux sociaux et sur Internet et rechercher d’autres sources de mention et de liens. Heureusement, Awario peut vous aider dans ces deux tâches.
+
+Pour voir quel genre de buzz entoure votre vidéo sur les médias sociaux, saisissez simplement l’URL de la vidéo lors de la configuration d’une alerte. Ou vous pouvez saisir les mots-clés que vous avez recherchés et les suivre dans une seule alerte (à l’aide de la recherche booléenne) et trouver de nombreuses opportunités pour promouvoir vos vidéos. Configurez l’outil pour qu’il ne suive que les résultats de YouTube et effectuez des recherches approfondies sur la concurrence afin d’améliorer votre classement.
+
+De plus, vous pouvez connecter votre compte YouTube à Awario pour pouvoir aimer et répondre aux commentaires directement depuis l’outil.
+
+4. Canva
+Canva : Idéal pour la conception de chaînes YouTube et d’images miniatures.
+
+Outil Canva
+Outil Canva
+Canva est une application graphique gratuite, qui offre une grande sélection de modèles pour toutes sortes de visuels, y compris des miniatures vidéo personnalisées. L’application a une version gratuite, qui est légèrement limitée en termes de nombre de modèles et de membres.
+
+Cependant, si vous avez décidé d’investir dans un compte de classe affaires (9,95$ par mois pour 1 utilisateur), vous aurez accès à une énorme base de données d’images (300 000 images) ainsi qu’à la possibilité d’utiliser vos propres polices et palettes de couleurs.
+
+5. TubeBuddy
+TubeBuddy : Idéal pour la gestion des chaînes YouTube et l’optimisation vidéo.
+
+TubeBuddy
+TubeBuddy
+TubeBuddy est une extension gratuite qui facilite dix fois plus le travail  pour tout ce qui concerne la gestion des chaînes YouTube. Comme il s’agit d’une extension, vous pouvez fonctionner sur YouTube sans passer par une application externe. Avec l’aide de TubeBuddy, vous pouvez surveiller les statistiques vidéo en direct, suivre les partages sociaux et obtenir des conseils d’optimisation vidéo.
+
+La meilleure chose concernant l’outil est qu’il affiche les données mentionnées ci-dessus pour toutes les vidéos sur YouTube. Ainsi, vous pouvez voir comment vos concurrents optimisent leurs vidéos et analyser comment vos vidéos se comparent à celles de vos concurrents.
+
+YouTube est le deuxième site le plus visité au monde. Utilisez le référencement pour booster votre marketing vidéo ! 🎥
+CLICK TO TWEET
+Résumé
+C’est tout pour le SEO YouTube pour aujourd’hui. Résumons brièvement tout ce dont nous avons parlé.
+
+Commencez à optimiser vos vidéos avec une recherche de mots-clés appropriée, en accordant une attention particulière aux mots-clés vidéo. Optimisez ensuite les métadonnées de vos vidéos avec les mots-clés que vous avez collectés. N’oubliez pas de le faire dans les 48 heures suivant la mise en ligne. Une fois que votre vidéo est en ligne, assurez-vous de la promouvoir et de créer des liens. Enfin, essayez d’optimiser votre propre méthode de référencement sur YouTube en vous armant d’une puissante boîte à outils YouTube.
